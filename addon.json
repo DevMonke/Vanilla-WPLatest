@@ -1,0 +1,15 @@
+{
+	"key": "wplatest",
+	"name": "WP Latests",
+	"description": "Shows Latest WP Post at top of vanilla forum threads",
+	"version": "1.0",
+	"documentationUrl": "https://github.com/DevMonke/Vanilla-WPLatest",
+	"type": "addon",
+	"icon": "icon.png",
+	"mobileFriendly": true,
+	"blog_url": "https://lowendspirit.com/",
+	"authors": [{
+		"name": "Monke",
+		"homepage": "https://talk.lowendspirit.com/profile/Monke"
+	}]
+}
