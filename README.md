@@ -1,5 +1,4 @@
-<h2>How to install ?</h2>
-<br>
+<h2>How to install ?</h2> 
 1) Go to "plugins" folder.<br>
 3) Create folder and name it "WPLatest".<br>
 4) Upload the plugin files insie "WPLatest" folder.<br>
